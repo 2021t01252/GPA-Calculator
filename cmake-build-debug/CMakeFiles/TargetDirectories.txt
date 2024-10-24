@@ -1,0 +1,3 @@
+C:/Users/User/OneDrive/Desktop/C Program Works/CFINAL_CODE_2021t01252/cmake-build-debug/CMakeFiles/CFINAL_CODE_2021t01252.dir
+C:/Users/User/OneDrive/Desktop/C Program Works/CFINAL_CODE_2021t01252/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive/Desktop/C Program Works/CFINAL_CODE_2021t01252/cmake-build-debug/CMakeFiles/rebuild_cache.dir
